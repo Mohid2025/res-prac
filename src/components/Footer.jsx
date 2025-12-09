@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="container mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-3">Delicious Bites</h3>
+            <h3 className="text-xl font-bold mb-3">Sheri Bistro</h3>
             <p className="text-gray-400">Serving happiness on a plate since 2020</p>
           </div>
           <div>
@@ -21,12 +21,12 @@ export default function Footer() {
           </div>
           <div>
             <h3 className="text-xl font-bold mb-3">Contact</h3>
-            <p className="text-gray-400">Email: info@deliciousbites.com</p>
+            <p className="text-gray-400">Email: info@sheribistro.com</p>
             <p className="text-gray-400">Phone: (555) 123-4567</p>
           </div>
         </div>
         <div className="border-t border-gray-700 mt-8 pt-6 text-center text-gray-400">
-          <p>&copy; 2024 Delicious Bites. All rights reserved.</p>
+          <p>&copy; 2024 Sheri Bistro. All rights reserved.</p>
         </div>
       </div>
     </footer>
